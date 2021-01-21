@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Books</string>
+    <string name="name_hint">Enter Name *</string>
+    <string name="phone_number_hint">Enter Phone Number *</string>
+    <string name="select_book_hint">Select Book *</string>
+    <string name="submit">Submit</string>
+    <string name="view_books"><u>View added books…</u></string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+</resources>
